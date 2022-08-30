@@ -4,7 +4,7 @@ contract june_ico {
 
     uint public max_junecoins = 1000000;
     uint public usd_to_junecoins = 1000;
-    uint public total_junecoins_bought = 0;
+    uint public total_junecoins_bought = 0;c
 
     mapping(address => uint) equity_junecoins;
     mapping(address => uint) equity_usd;
